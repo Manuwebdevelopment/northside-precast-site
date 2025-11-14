@@ -1,0 +1,313 @@
+{
+  "business": {
+    "name": "NorthSide Precast Block Walls",
+    "abn": "TODO: Add ABN",
+    "tagline": "Engineered precast concrete block walls, installed fast.",
+    "about": "We supply and install 600 x 600 x 1200 precast concrete blocks for structural walls across Mount Kuring-gai and Sydney’s North. Our modular, stackable blocks are engineered for strength, stability, and speed of installation, making them ideal for retaining walls, material bays, boundaries, and temporary or permanent structures. Minimal site preparation, no curing delays, and a focus on safety and reliability mean your wall goes up quickly and stays put.",
+    "brand": {
+      "palette": {
+        "accent": "#F97316",
+        "primary": "#0F172A",
+        "secondary": "#0D9488",
+        "neutral": "#E5E7EB"
+      }
+    }
+  },
+  "contact": {
+    "phone_display": "02 8089 0265",
+    "phone_tel": "+61280890265",
+    "email": "TODO: add-real-email@example.com",
+    "website": ""
+  },
+  "address": {
+    "street": "",
+    "suburb": "Mount Kuring-gai",
+    "state": "NSW",
+    "postcode": ""
+  },
+  "hours": [
+    {
+      "days": "Mon–Fri",
+      "open": "07:00",
+      "close": "17:00"
+    },
+    {
+      "days": "Sat",
+      "open": "08:00",
+      "close": "13:00"
+    }
+  ],
+  "areas_served": [
+    "Mount Kuring-gai",
+    "Mount Colah",
+    "Berowra",
+    "Hornsby",
+    "Asquith",
+    "Wahroonga",
+    "Upper North Shore",
+    "Sydney Metro"
+  ],
+  "social": {
+    "facebook": "",
+    "instagram": "",
+    "linkedin": ""
+  },
+  "heroes": {
+    "home_hero": {
+      "heading": "Precast concrete block walls, installed with zero curing delays.",
+      "subheading": "Modular, engineered walls for retaining, storage bays, and boundaries across Sydney’s North.",
+      "image": "/public/img/TODO-hero-precast-blocks.jpg"
+    },
+    "page_hero": {
+      "services": {
+        "heading": "Precast Concrete Block Wall Services",
+        "image": "/public/img/TODO-hero-services-blocks.jpg"
+      },
+      "about": {
+        "heading": "About NorthSide Precast Block Walls",
+        "image": "/public/img/TODO-hero-about-blocks.jpg"
+      },
+      "faq": {
+        "heading": "Precast Block Wall FAQs",
+        "image": "/public/img/TODO-hero-faq-blocks.jpg"
+      },
+      "contact": {
+        "heading": "Request a Precast Block Wall Quote",
+        "image": "/public/img/TODO-hero-contact-blocks.jpg"
+      },
+      "projects": {
+        "heading": "Recent Block Wall Projects",
+        "image": "/public/img/TODO-hero-projects-blocks.jpg"
+      }
+    }
+  },
+  "services": [
+    {
+      "name": "Precast Concrete Retaining Walls",
+      "summary": "Engineered retaining walls using 600 x 600 x 1200 precast concrete blocks for residential, commercial, and industrial sites.",
+      "sub_services": [
+        "Tiered garden and landscaping retaining walls",
+        "Driveway and parking area retaining walls",
+        "Residential, commercial, and industrial retaining solutions",
+        "Modular walls designed for future extensions or modifications"
+      ],
+      "benefits": [
+        "No curing time – walls installed and usable immediately, reducing program delays.",
+        "Reinforced, engineered blocks designed for long-term stability and load-bearing performance.",
+        "Minimal site preparation compared with in-situ poured walls, reducing labour and machinery costs.",
+        "Modular system makes repairs or wall extensions faster and more cost-effective."
+      ]
+    },
+    {
+      "name": "Material Bays & Bulk Storage Bunkers",
+      "summary": "Durable precast concrete bays for storing bulk materials such as sand, gravel, mulch, and soil.",
+      "sub_services": [
+        "Bulk storage bays for landscaping suppliers and yards",
+        "Segregated bays for sand, gravel, mulch, and soils",
+        "High walls for loader-friendly access and stockpiling",
+        "Reconfigurable bay layouts as your site changes"
+      ],
+      "benefits": [
+        "Heavy-duty blocks resist impact from loaders and trucks, protecting your yard layout.",
+        "Neat, defined bays reduce cross-contamination between materials.",
+        "Fast installation allows new yards or yard reconfigurations to be completed in days, not weeks.",
+        "Modular design enables bays to be relocated or extended as business needs grow."
+      ]
+    },
+    {
+      "name": "Site Boundaries, Noise & Privacy Walls",
+      "summary": "Precast block walls to define site boundaries, improve privacy, and assist with noise reduction.",
+      "sub_services": [
+        "Perimeter walls for commercial and industrial sites",
+        "Privacy walls for residential and multi-unit developments",
+        "Noise-buffering walls for plant rooms and busy roads",
+        "Security walls combined with gates or fencing"
+      ],
+      "benefits": [
+        "Solid concrete mass provides better privacy and noise attenuation than lightweight fencing.",
+        "Rapid install makes it suitable for live sites needing minimal disruption.",
+        "Durable finish reduces ongoing maintenance compared with timber or lightweight systems.",
+        "Clear, defined boundaries assist with access control and site security."
+      ]
+    },
+    {
+      "name": "Temporary Works, Flood & Erosion Control Barriers",
+      "summary": "Reconfigurable block walls for temporary works, flood mitigation, and erosion or slope stabilisation.",
+      "sub_services": [
+        "Temporary construction site walls and partitions",
+        "Flood barriers and levees using stacked blocks",
+        "Erosion control and slope stabilisation solutions",
+        "Reconfigurable walls for short- or medium-term projects"
+      ],
+      "benefits": [
+        "Blocks can be installed, removed, and reused, making them cost-effective for temporary works.",
+        "Concrete mass provides reliable performance for flood diversion and erosion control when designed correctly.",
+        "Minimal foundations required compared with traditional permanent structures.",
+        "Ideal for sites needing quick controls while longer-term civil works are planned."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What size precast concrete blocks do you use?",
+      "a": "We primarily work with 600 x 600 x 1200 precast concrete blocks that are engineered for structural performance and modular stacking."
+    },
+    {
+      "q": "Where do you operate?",
+      "a": "We are based in Mount Kuring-gai, NSW and regularly service Mount Colah, Berowra, Hornsby, Asquith, Wahroonga, the Upper North Shore, and wider Sydney Metro by arrangement."
+    },
+    {
+      "q": "How fast can a precast block wall be installed?",
+      "a": "Because there is no curing time, many small retaining or storage bay walls can be installed within a day once site preparation and access are confirmed."
+    },
+    {
+      "q": "Do I need full engineering for my wall?",
+      "a": "Yes, all structural walls should be designed or verified by a qualified engineer, particularly retaining walls, flood barriers, and high walls. We can work with your engineer or help you connect with one.  # TODO: confirm engineering process"
+    },
+    {
+      "q": "Can the walls be moved or extended later?",
+      "a": "Yes. One of the key advantages of modular precast blocks is that they can be dismantled, reconfigured, or extended as your site requirements change."
+    },
+    {
+      "q": "Are precast block walls suitable for residential properties?",
+      "a": "They are a great option for residential retaining walls, garden terraces, driveways, and property boundaries where you want a robust, long-lasting solution."
+    },
+    {
+      "q": "What kind of site preparation is required?",
+      "a": "Most projects only require a compacted, level base capable of supporting the wall loads. Compared with in-situ concrete, site preparation is typically simpler and faster."
+    },
+    {
+      "q": "Can you work on live commercial or industrial sites?",
+      "a": "Yes. Our installation methods are suited to live sites, and we plan deliveries and crane or forklift movements to minimise disruption to your operations."
+    },
+    {
+      "q": "Do you arrange delivery and cranage of the blocks?",
+      "a": "Yes. We coordinate block supply, delivery, and cranage or lifting equipment as part of the installation scope, unless you prefer to manage supply yourself."
+    },
+    {
+      "q": "Are you licensed and insured?",
+      "a": "Yes, we hold the appropriate construction licences and public liability insurance for the work we perform.  # TODO: insert specific licence classes and policy details once confirmed."
+    },
+    {
+      "q": "Can you build temporary walls for construction sites?",
+      "a": "Yes. Our modular blocks are ideal for temporary construction walls, partitions, and safety barriers that can be removed or reconfigured later."
+    },
+    {
+      "q": "How do I get a quote?",
+      "a": "Call 02 8089 0265 or complete the online quote form with your site location, wall purpose, approximate dimensions, and any plans or photos, and we will get back to you with next steps."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Site Manager – Landscaping Supply Yard",
+      "text": "The new precast concrete bays went in over a weekend and we were back trading on Monday. Minimal mess, clear communication, and a solid result.",
+      "location": "Hornsby, NSW"
+    },
+    {
+      "name": "Facilities Manager – Industrial Site",
+      "text": "We needed a fast solution for boundary and storage walls. The modular block system was installed quickly and can be extended as our site expands.",
+      "location": "Upper North Shore, NSW"
+    }
+  ],
+  "credentials": [
+    {
+      "label": "TODO: Licence",
+      "value": "TODO: Add NSW contractor licence details."
+    },
+    {
+      "label": "TODO: Insurance",
+      "value": "TODO: Add public liability insurance details (e.g. $20M cover)."
+    },
+    {
+      "label": "TODO: ABN",
+      "value": "TODO: Add ABN to match business registration."
+    }
+  ],
+  "gallery": [
+    {
+      "src": "/public/img/TODO-gallery-precast-retaining-placeholder.jpg",
+      "alt": "Precast concrete retaining wall installation. TODO: replace with actual project image."
+    },
+    {
+      "src": "/public/img/TODO-gallery-material-bays-placeholder.jpg",
+      "alt": "Precast concrete block material bays storing sand and gravel. TODO: replace with actual project image."
+    },
+    {
+      "src": "/public/img/TODO-gallery-boundary-wall-placeholder.jpg",
+      "alt": "Precast block boundary wall on an industrial site. TODO: replace with actual project image."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Landscaping Yard Material Bays – Hornsby",
+      "summary": "Supply and installation of modular precast concrete bays for sand, gravel, and mulch, with minimal downtime for the yard.",
+      "tags": [
+        "Hornsby",
+        "Material Bays",
+        "Commercial"
+      ],
+      "image": "/public/img/TODO-project-hornsby-bays-placeholder.jpg"
+    },
+    {
+      "title": "Residential Retaining Wall – Mount Kuring-gai",
+      "summary": "Tiered garden retaining wall using 600 x 600 x 1200 precast blocks, installed without curing delays.",
+      "tags": [
+        "Mount Kuring-gai",
+        "Retaining Wall",
+        "Residential"
+      ],
+      "image": "/public/img/TODO-project-mkg-retaining-placeholder.jpg"
+    },
+    {
+      "title": "Temporary Construction Wall – Berowra",
+      "summary": "Reconfigurable precast block wall used to separate construction activities from public access areas.",
+      "tags": [
+        "Berowra",
+        "Temporary Works",
+        "Construction"
+      ],
+      "image": "/public/img/TODO-project-berowra-tempwall-placeholder.jpg"
+    }
+  ],
+  "seo": {
+    "home": {
+      "title": "Precast Concrete Block Walls | Mount Kuring-gai & Sydney North",
+      "description": "Supply and installation of 600 x 600 x 1200 precast concrete block walls for retaining, material bays, and boundaries across Sydney’s North."
+    },
+    "services": {
+      "title": "Services | Precast Concrete Block Walls",
+      "description": "Retaining walls, material bays, site boundaries, and temporary or flood control walls built using modular precast concrete blocks."
+    },
+    "about": {
+      "title": "About | NorthSide Precast Block Walls",
+      "description": "Mount Kuring-gai based team specialising in engineered precast concrete block walls with fast installation and minimal site disruption."
+    },
+    "faq": {
+      "title": "FAQs | Precast Block Walls",
+      "description": "Answers to common questions about precast concrete block sizes, installation times, engineering, and insurances."
+    },
+    "contact": {
+      "title": "Contact | Request a Precast Wall Quote",
+      "description": "Call or enquire online for a quote on precast concrete retaining walls, material bays, and temporary walls in Sydney’s North."
+    },
+    "projects": {
+      "title": "Projects | Precast Concrete Wall Installations",
+      "description": "Examples of recent precast concrete block wall projects across Mount Kuring-gai, Hornsby, Berowra, and the Upper North Shore."
+    }
+  },
+  "forms": {
+    "quote_fields": [
+      "name",
+      "email",
+      "phone",
+      "suburb",
+      "service",
+      "message"
+    ]
+  },
+  "policies": {
+    "accreditation_generation": "ask_or_generate_placeholder",
+    "media_strategy": "ask_or_generate_placeholder",
+    "pricing": "no_fabrication"
+  }
+}
