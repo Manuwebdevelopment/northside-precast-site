@@ -1,0 +1,27 @@
+:root {
+  /* Theme aliases pointing to base tokens */
+  --site-bg: var(--colour-bg);
+  --site-text: var(--colour-text);
+
+  --site-header-bg: var(--colour-primary);
+  --site-header-text: #e5e7eb;
+  --site-header-accent: var(--colour-accent);
+
+  --site-hero-bg-start: var(--colour-primary);
+  --site-hero-bg-end: #020617;
+  --site-hero-accent: var(--colour-accent);
+
+  --site-button-primary-bg: var(--colour-accent);
+  --site-button-primary-text: #111827;
+
+  --site-button-ghost-border: var(--colour-accent);
+  --site-button-ghost-text: var(--colour-accent);
+
+  --site-section-light-bg: #f3f4f6;
+  --site-section-muted-bg: #e5e7eb;
+  --site-section-accent-bg: var(--colour-primary);
+
+  --site-card-bg: #ffffff;
+  --site-card-border: var(--colour-neutral);
+  --site-card-shadow: var(--shadow-soft);
+}
