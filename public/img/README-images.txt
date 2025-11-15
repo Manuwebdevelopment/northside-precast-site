@@ -25,8 +25,16 @@ TODO-gallery-precast-retaining-placeholder.jpg
 TODO-gallery-material-bays-placeholder.jpg
 TODO-gallery-boundary-wall-placeholder.jpg
 
+Services Images
+--------------
+service-retaining-walls.jpg
+service-material-bays.jpg
+service-boundaries-noise.jpg
+service-temporary-flood-erosion.jpg
+
 Notes
 -----
 - Keep the filenames exactly the same (case-sensitive).
 - Recommended size: at least 1600px wide for hero images.
 - Landscape orientation works best for heroes and projects.
+
