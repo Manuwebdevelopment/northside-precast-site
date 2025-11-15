@@ -38,3 +38,9 @@ Notes
 - Recommended size: at least 1600px wide for hero images.
 - Landscape orientation works best for heroes and projects.
 
+Updates
+-------
+<img src="/public/img/service-flood-barrier-closeup.jpg"
+     alt="Short description of the image"
+     class="card__image">
+
